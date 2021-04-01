@@ -1,0 +1,4 @@
+O cara desenhou o sistema no adobe XD
+
+visualizar json
+site=> http://jsonviewer.stack.hu/

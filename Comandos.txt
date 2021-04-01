@@ -1,0 +1,25 @@
+npx react-native init devbarber
+cd devbarber
+
+o celular deve estar em modo depuração e transferir arquivos
+listar celular
+=>adb devices
+rodar o projeto direto no celular
+=>npm start
+=>react-native run-android
+
+limpar cache e compilar
+=>cd android && ./gradlew clean && cd .. && npx react-native run-android
+
+npm install @expo/metro-config
+npm install styled-components
+npm install @react-navigation/native
+npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install @react-navigation/stack
+npm install @react-navigation/bottom-tabs
+npm install @react-native-community/async-storage
+npm install @react-native-community/geolocation
+npm install react-native-permissions
+npm install react-native-swiper
+npm install react-native-svg
+npm install react-native-svg-transformer
